@@ -66,40 +66,88 @@ The above data was analyzed to produce this project's recommendations.
 What Genres is the most profitable?
 * Animation ,SciFi,Fantasy, Comedy and Family are the top five most profitable genres
 
-![Alt text](images\Genres.png)
-
+<img
+  src="images\Genres.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 500px">
 
 
 Which are the best months to release a movie?
 * February seemed to leading with most gross earnings
 * July was second, November was third
-![Alt text](images\release_date.png)
+<img
+  src="images\release_date.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 500px">
+
 
 
 
 Who are the best directors in the game?
 * John Andreas Anderson, Robin Pront, David Delhoffen, Scott Armstrong and Brian Peter Falk.
-![Alt text](images\directors.png)
+
+<img
+  src="images\directors.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 500px">
 
 
 Which competitor studios is leading in the industry?
 * PW/D,BV, Sony,WB(NL) are the leading movie studios in terms of numbers and revenue.
-![Alt text](images\studio.png)
+
+<img
+  src="images\studio.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 500px">
 
 
 Does the ratings of a movie really determine the gross earnings?
 * Rating does not affect the gross earnings
-![Alt text](images\ratings.png)
+
+<img
+  src="images\ratings.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 500px">
 
 
 Does the runtime of a movie detemine its' popularity
-![Alt text](images\runtime.png)
+<img
+  src="images\runtime.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 500px">
+
+
+
+
+## Conclusion
+
+* 'SciFi' ,'Animation' and 'Comedy' genres are more likely to have a higher returns.
+
+* Success of a film is not determinant on the films rating
+
+* The length of a film (Runtime) of a film has impact on its box office performance. The ideal-time is between 90minutes-120 minutes.
+
+* The best month to release a movie is November as it was the second most grossing and the second most in terms of number of releases. However, February seemed to have highest returns.
+
+* Films directed by John Andreas Anderson, Robin Pront, David Delhoffen, Scott Armstrong and Brian Peter Falk produce the highest gross earnings.
+
+* The best competitor studios in the business  are  P/DW , BV, Sony, WB(NL) and Fox respectively.
 
 
 ## Future Considerations
 Further analyses could yield additional insights to improve recommendations for Microsoft's studio debut:
+* Thorough financial analysis(P&Ls).
+* Determine the impact of all crew members
+* Determine the impacts of different combination genres.
+
 
 ## For More Information
-Please review the full analysis in the [Jupyter Notebook](https://github.com/ndungek/Microsoft-Movie-Studio-EDA/blob/main/index.ipynb) or the Presentation.
+Please review the full analysis in the [Jupyter Notebook](https://github.com/ndungek/Microsoft-Movie-Studio-EDA/blob/main/index.ipynb) or the [Presentation](file:///C:/Users/ndung/OneDrive/Microsoft-Movie-Studio-EDA%20-%20Copy/Presentation.pdf.)
 
 For any additional questions, please contact : ndungek66@gmail.com
