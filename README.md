@@ -1,5 +1,14 @@
 # Microsoft Movie Studio EDA (Maureen Kitang'a)
 
+# Animation or Sci-Fi?
+
+<img
+  src="images\readme img.webp"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 400px">
+
+
 This project is a part of the Data Science (DSF-FT) Course at Moringa School. The full project description can be found [here](https://moringa.instructure.com/courses/243/pages/phase-1-project-description?module_item_id=44802).
 
 
@@ -85,42 +94,42 @@ Which are the best months to release a movie?
 
 
 
-Who are the best directors in the game?
+### Who are the best directors in the game?
 * John Andreas Anderson, Robin Pront, David Delhoffen, Scott Armstrong and Brian Peter Falk.
 
 <img
   src="images\directors.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 500px">
+  style="display: inline-block; margin: 0 auto; max-width: 400px">
 
 
-Which competitor studios is leading in the industry?
+### Which competitor studios is leading in the industry?
 * PW/D,BV, Sony,WB(NL) are the leading movie studios in terms of numbers and revenue.
 
 <img
   src="images\studio.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 500px">
+  style="display: inline-block; margin: 0 auto; max-width: 400px">
 
 
-Does the ratings of a movie really determine the gross earnings?
+### Does the ratings of a movie really determine the gross earnings?
 * Rating does not affect the gross earnings
 
 <img
   src="images\ratings.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 500px">
+  style="display: inline-block; margin: 0 auto; max-width: 400px">
 
 
-Does the runtime of a movie detemine its' popularity
+### Does the runtime of a movie detemine its' popularity
 <img
   src="images\runtime.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 500px">
+  style="display: inline-block; margin: 0 auto; max-width: 400px">
 
 
 
@@ -148,6 +157,6 @@ Further analyses could yield additional insights to improve recommendations for 
 
 
 ## For More Information
-Please review the full analysis in the [Jupyter Notebook](https://github.com/ndungek/Microsoft-Movie-Studio-EDA/blob/main/index.ipynb) or the [Presentation](file:///C:/Users/ndung/OneDrive/Microsoft-Movie-Studio-EDA%20-%20Copy/Presentation.pdf.)
+Please review the full analysis in the [Jupyter Notebook](https://github.com/ndungek/Microsoft-Movie-Studio-EDA/blob/main/index.ipynb) or the [Presentation](https://drive.google.com/file/d/1WKT-wjj0-z9143Wr2REG-Km-8hND0hU3/view?usp=sharing)
 
 For any additional questions, please contact : ndungek66@gmail.com
