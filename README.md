@@ -1,14 +1,5 @@
 # Microsoft Movie Studio EDA (Maureen Kitang'a)
 
-# Animation or Sci-Fi?
-
-<img
-  src="images\readme img.webp"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 400px">
-
-
 This project is a part of the Data Science (DSF-FT) Course at Moringa School. The full project description can be found [here](https://moringa.instructure.com/courses/243/pages/phase-1-project-description?module_item_id=44802).
 
 
